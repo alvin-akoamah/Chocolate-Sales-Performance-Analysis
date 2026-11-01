@@ -11,6 +11,10 @@ The objective was to transform raw retail transaction data into an **interactive
 
 The analysis covers **2023–2024** and features six interactive report pages examining different aspects of retail business performance.
 
+## Dashboard Preview
+
+![Retail Sales Executive Summary](Screenshots/Executive%20Summary.png)
+
 ## Tools & Technologies
 
 - **Microsoft Excel** – Initial data inspection and preparation
